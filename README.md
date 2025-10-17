@@ -8,6 +8,18 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly says that "this library is not maintained".
 * Not committed for a long time (2~3 years).
 
+## Resource Explorer MVP
+
+Looking for a quick way to interact with the curated lists without editing Markdown by hand? The repository now ships with a lightweight MVP that parses the existing documents, renders clean terminal tables, and exports a polished HTML dashboard.
+
+1. **Install dependencies** – the tooling relies only on the Python standard library. Ensure Python 3.10+ is available and optionally create a virtual environment.
+2. **Browse from the terminal** – run `python -m examples.resource_explorer.app browse --list-categories` to see the supported datasets, then drill down with options such as `--section` or `--search`.
+3. **Generate visualizations** – produce a standalone SVG chart with `python -m examples.resource_explorer.app chart --output docs/resource_explorer_dashboard_sample_chart.svg`. The refreshed output dedicates a numbered label column, wraps long breadcrumb names across multiple lines, dynamically expands row heights, and overlays dashed tick guides so counts stay legible even for dense sections.
+4. **Export the dashboard** – build the full HTML experience via `python -m examples.resource_explorer.app dashboard --output docs/resource_explorer_dashboard_sample.html` and open the output in your browser. A ready-to-review copy is checked in under `docs/`.
+5. **Validate the workflow** – execute `pytest examples/resource_explorer/tests` to run the normalization, visualization, and dashboard regression suite.
+
+For a deep dive into capabilities and planned iterations, see `docs/resource_explorer_MVP.md` and the guided walkthrough in `docs/resource_explorer_MVP_walkthrough.md`.
+
 Further resources:
 
 * For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).

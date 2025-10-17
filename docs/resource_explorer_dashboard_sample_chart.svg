@@ -1,0 +1,1352 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1040' height='6616' viewBox='0 0 1040 6616'>
+  <defs>
+    <linearGradient id='barGradient' x1='0%' y1='0%' x2='100%' y2='0%'>
+      <stop offset='0%' stop-color='#85a5ff' stop-opacity='0.95' />
+      <stop offset='100%' stop-color='#3c6ff7' stop-opacity='1' />
+    </linearGradient>
+  </defs>
+  <style>    text { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #1f2933; font-size: 15px; }    .count { font-weight: 600; font-size: 16px; }    .label-wrapper {      height: 100%;      display: flex;      align-items: center;    }    .label {      font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;      font-size: 15px;      line-height: 1.45;      color: #1f2933;      margin: 0;      word-break: break-word;    }    .label-fallback {      display: none;    }  </style>
+  <rect width='100%' height='100%' fill='white' />
+  <text x='520.0' y='28' text-anchor='middle' font-size='22px' font-weight='600'>Frameworks resources by section</text>
+  <text x='520.0' y='50' text-anchor='middle' font-size='14px' opacity='0.75'>Sorted by total resources · 100 sections shown</text>
+  <line x1='506.0' y1='34' x2='506.0' y2='6582' stroke='#d2d6dc' stroke-width='0.75' opacity='0.45' stroke-dasharray='4 6' />
+  <text x='506.0' y='26' text-anchor='middle' font-size='12px' opacity='0.7'>0</text>
+  <line x1='598.8395061728395' y1='34' x2='598.8395061728395' y2='6582' stroke='#d2d6dc' stroke-width='0.75' opacity='0.45' stroke-dasharray='4 6' />
+  <text x='598.8395061728395' y='26' text-anchor='middle' font-size='12px' opacity='0.7'>40</text>
+  <line x1='694.0' y1='34' x2='694.0' y2='6582' stroke='#d2d6dc' stroke-width='0.75' opacity='0.45' stroke-dasharray='4 6' />
+  <text x='694.0' y='26' text-anchor='middle' font-size='12px' opacity='0.7'>81</text>
+  <line x1='786.8395061728395' y1='34' x2='786.8395061728395' y2='6582' stroke='#d2d6dc' stroke-width='0.75' opacity='0.45' stroke-dasharray='4 6' />
+  <text x='786.8395061728395' y='26' text-anchor='middle' font-size='12px' opacity='0.7'>121</text>
+  <line x1='882.0' y1='34' x2='882.0' y2='6582' stroke='#d2d6dc' stroke-width='0.75' opacity='0.45' stroke-dasharray='4 6' />
+  <text x='882.0' y='26' text-anchor='middle' font-size='12px' opacity='0.7'>162</text>
+  <g data-row='0' transform='translate(0,48)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>01</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-0' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › General-Purpose Machine
+      <tspan x='92' dy='20'>Learning</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='376' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>162</text>
+  </g>
+  <g data-row='1' transform='translate(0,116)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>02</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Table of Contents › Frameworks and Libraries</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-1' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Table of Contents › Frameworks and Libraries
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='301' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>130</text>
+  </g>
+  <g data-row='2' transform='translate(0,180)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>03</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>R › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-2' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      R › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='197' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>85</text>
+  </g>
+  <g data-row='3' transform='translate(0,244)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>04</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-3' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › Data Analysis › Data
+      <tspan x='92' dy='20'>Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='134' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>58</text>
+  </g>
+  <g data-row='4' transform='translate(0,312)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>05</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › Misc Scripts › iPython Notebooks › Codebases</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-4' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › Misc Scripts › iPython
+      <tspan x='92' dy='20'>Notebooks › Codebases</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='116' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>50</text>
+  </g>
+  <g data-row='5' transform='translate(0,380)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>06</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>C++ › Computer Vision › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-5' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      C++ › Computer Vision › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='106' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>46</text>
+  </g>
+  <g data-row='6' transform='translate(0,444)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>07</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-6' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='102' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>44</text>
+  </g>
+  <g data-row='7' transform='translate(0,508)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>08</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Lua › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-7' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Lua › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='90' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>39</text>
+  </g>
+  <g data-row='8' transform='translate(0,572)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>09</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Julia › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-8' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Julia › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='81' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>35</text>
+  </g>
+  <g data-row='9' transform='translate(0,636)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>10</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-9' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='81' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>35</text>
+  </g>
+  <g data-row='10' transform='translate(0,700)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>11</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>JavaScript › Natural Language Processing › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-10' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      JavaScript › Natural Language Processing ›
+      <tspan x='92' dy='20'>General-Purpose Machine Learning</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='78' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>34</text>
+  </g>
+  <g data-row='11' transform='translate(0,768)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>12</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Tools › Neural Networks › Misc</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-11' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Tools › Neural Networks › Misc
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='74' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>32</text>
+  </g>
+  <g data-row='12' transform='translate(0,832)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>13</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Java › Natural Language Processing › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-12' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Java › Natural Language Processing › General-Purpose
+      <tspan x='92' dy='20'>Machine Learning</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='62' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>27</text>
+  </g>
+  <g data-row='13' transform='translate(0,900)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>14</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › Kaggle Competition Source Code</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-13' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › Kaggle Competition Source Code
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='55' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>24</text>
+  </g>
+  <g data-row='14' transform='translate(0,964)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>15</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Go › Natural Language Processing › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-14' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Go › Natural Language Processing › General-Purpose
+      <tspan x='92' dy='20'>Machine Learning</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='53' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>23</text>
+  </g>
+  <g data-row='15' transform='translate(0,1032)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>16</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Java › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-15' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Java › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='48' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>21</text>
+  </g>
+  <g data-row='16' transform='translate(0,1096)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>17</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>JavaScript › Natural Language Processing › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-16' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      JavaScript › Natural Language Processing › Data Analysis
+      <tspan x='92' dy='20'>› Data Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='48' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>21</text>
+  </g>
+  <g data-row='17' transform='translate(0,1164)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>18</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Scala › Natural Language Processing › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-17' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Scala › Natural Language Processing › General-Purpose
+      <tspan x='92' dy='20'>Machine Learning</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='41' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>18</text>
+  </g>
+  <g data-row='18' transform='translate(0,1232)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>19</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › Reinforcement Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-18' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › Reinforcement Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='34' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>15</text>
+  </g>
+  <g data-row='19' transform='translate(0,1296)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>20</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Julia › General-Purpose Machine Learning › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-19' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Julia › General-Purpose Machine Learning › Data Analysis
+      <tspan x='92' dy='20'>› Data Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='32' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>14</text>
+  </g>
+  <g data-row='20' transform='translate(0,1364)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>21</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Clojure › Natural Language Processing › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-20' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Clojure › Natural Language Processing › General-Purpose
+      <tspan x='92' dy='20'>Machine Learning</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='27' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>12</text>
+  </g>
+  <g data-row='21' transform='translate(0,1432)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>22</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Go › Natural Language Processing › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-21' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Go › Natural Language Processing › Data Analysis › Data
+      <tspan x='92' dy='20'>Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='27' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>12</text>
+  </g>
+  <g data-row='22' transform='translate(0,1500)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>23</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Matlab › Computer Vision › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-22' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Matlab › Computer Vision › General-Purpose Machine
+      <tspan x='92' dy='20'>Learning</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='27' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>12</text>
+  </g>
+  <g data-row='23' transform='translate(0,1568)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>24</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Swift › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-23' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Swift › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='27' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>12</text>
+  </g>
+  <g data-row='24' transform='translate(0,1632)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>25</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>.NET › Computer Vision › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-24' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      .NET › Computer Vision › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='25' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>11</text>
+  </g>
+  <g data-row='25' transform='translate(0,1696)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>26</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › Neural Networks</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-25' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › Neural Networks
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='25' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>11</text>
+  </g>
+  <g data-row='26' transform='translate(0,1760)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>27</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Scala › Natural Language Processing › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-26' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Scala › Natural Language Processing › Data Analysis ›
+      <tspan x='92' dy='20'>Data Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='25' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>11</text>
+  </g>
+  <g data-row='27' transform='translate(0,1828)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>28</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>C++ › Computer Vision › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-27' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      C++ › Computer Vision › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='20' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>9</text>
+  </g>
+  <g data-row='28' transform='translate(0,1892)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>29</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Ruby › Natural Language Processing › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-28' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Ruby › Natural Language Processing › Data Analysis › Data
+      <tspan x='92' dy='20'>Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='20' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>9</text>
+  </g>
+  <g data-row='29' transform='translate(0,1960)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>30</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Clojure › Natural Language Processing › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-29' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Clojure › Natural Language Processing › Data
+      <tspan x='92' dy='20'>Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='18' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>8</text>
+  </g>
+  <g data-row='30' transform='translate(0,2028)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>31</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Java › Natural Language Processing › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-30' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Java › Natural Language Processing › Data Analysis › Data
+      <tspan x='92' dy='20'>Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='18' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>8</text>
+  </g>
+  <g data-row='31' transform='translate(0,2096)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>32</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>JavaScript › Natural Language Processing › Misc</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-31' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      JavaScript › Natural Language Processing › Misc
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='18' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>8</text>
+  </g>
+  <g data-row='32' transform='translate(0,2160)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>33</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Objective C › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-32' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Objective C › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='18' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>8</text>
+  </g>
+  <g data-row='33' transform='translate(0,2224)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>34</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Ruby › Natural Language Processing › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-33' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Ruby › Natural Language Processing › General-Purpose
+      <tspan x='92' dy='20'>Machine Learning</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='18' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>8</text>
+  </g>
+  <g data-row='34' transform='translate(0,2292)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>35</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Rust › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-34' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Rust › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='18' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>8</text>
+  </g>
+  <g data-row='35' transform='translate(0,2356)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>36</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Books</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-35' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Books
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='16' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>7</text>
+  </g>
+  <g data-row='36' transform='translate(0,2420)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>37</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Go › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-36' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Go › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='16' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>7</text>
+  </g>
+  <g data-row='37' transform='translate(0,2484)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>38</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Julia › General-Purpose Machine Learning › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-37' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Julia › General-Purpose Machine Learning › Natural
+      <tspan x='92' dy='20'>Language Processing</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='16' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>7</text>
+  </g>
+  <g data-row='38' transform='translate(0,2552)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>39</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>C › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-38' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      C › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='13' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>6</text>
+  </g>
+  <g data-row='39' transform='translate(0,2616)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>40</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Clojure › Natural Language Processing › Data Analysis</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-39' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Clojure › Natural Language Processing › Data Analysis
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='13' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>6</text>
+  </g>
+  <g data-row='40' transform='translate(0,2680)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>41</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Clojure › Natural Language Processing › Deep Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-40' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Clojure › Natural Language Processing › Deep Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='13' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>6</text>
+  </g>
+  <g data-row='41' transform='translate(0,2744)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>42</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Haskell › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-41' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Haskell › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='13' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>6</text>
+  </g>
+  <g data-row='42' transform='translate(0,2808)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>43</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>JavaScript › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-42' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      JavaScript › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='13' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>6</text>
+  </g>
+  <g data-row='43' transform='translate(0,2872)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>44</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Ruby › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-43' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Ruby › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='13' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>6</text>
+  </g>
+  <g data-row='44' transform='translate(0,2936)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>45</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Scala › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-44' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Scala › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='13' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>6</text>
+  </g>
+  <g data-row='45' transform='translate(0,3000)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>46</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>C++ › Computer Vision</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-45' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      C++ › Computer Vision
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='11' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>5</text>
+  </g>
+  <g data-row='46' transform='translate(0,3064)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>47</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Common Lisp › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-46' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Common Lisp › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='11' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>5</text>
+  </g>
+  <g data-row='47' transform='translate(0,3128)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>48</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>JavaScript › Natural Language Processing › Demos and Scripts</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-47' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      JavaScript › Natural Language Processing › Demos and
+      <tspan x='92' dy='20'>Scripts</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='11' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>5</text>
+  </g>
+  <g data-row='48' transform='translate(0,3196)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>49</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Julia › General-Purpose Machine Learning › Misc Stuff › Presentations</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-48' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Julia › General-Purpose Machine Learning › Misc Stuff ›
+      <tspan x='92' dy='20'>Presentations</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='11' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>5</text>
+  </g>
+  <g data-row='49' transform='translate(0,3264)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>50</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Matlab › Computer Vision</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-49' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Matlab › Computer Vision
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='11' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>5</text>
+  </g>
+  <g data-row='50' transform='translate(0,3328)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>51</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>R › General-Purpose Machine Learning › Data Manipulation | Data Analysis | Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-50' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      R › General-Purpose Machine Learning › Data Manipulation
+      <tspan x='92' dy='20'>| Data Analysis | Data Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='11' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>5</text>
+  </g>
+  <g data-row='51' transform='translate(0,3396)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>52</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Resource Explorer MVP</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-51' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Resource Explorer MVP
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='11' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>5</text>
+  </g>
+  <g data-row='52' transform='translate(0,3460)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>53</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>SAS › General-Purpose Machine Learning › Demos and Scripts</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-52' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      SAS › General-Purpose Machine Learning › Demos and
+      <tspan x='92' dy='20'>Scripts</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='11' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>5</text>
+  </g>
+  <g data-row='53' transform='translate(0,3528)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>54</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>.NET › Computer Vision</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-53' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      .NET › Computer Vision
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='9' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>4</text>
+  </g>
+  <g data-row='54' transform='translate(0,3592)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>55</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Clojure › Natural Language Processing › Interop</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-54' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Clojure › Natural Language Processing › Interop
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='9' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>4</text>
+  </g>
+  <g data-row='55' transform='translate(0,3656)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>56</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Clojure › Natural Language Processing › Misc</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-55' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Clojure › Natural Language Processing › Misc
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='9' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>4</text>
+  </g>
+  <g data-row='56' transform='translate(0,3720)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>57</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Lua › General-Purpose Machine Learning › Demos and Scripts</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-56' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Lua › General-Purpose Machine Learning › Demos and
+      <tspan x='92' dy='20'>Scripts</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='9' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>4</text>
+  </g>
+  <g data-row='57' transform='translate(0,3788)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>58</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>OCaml › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-57' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      OCaml › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='9' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>4</text>
+  </g>
+  <g data-row='58' transform='translate(0,3852)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>59</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>PHP › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-58' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      PHP › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='9' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>4</text>
+  </g>
+  <g data-row='59' transform='translate(0,3916)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>60</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>.NET › Computer Vision › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-59' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      .NET › Computer Vision › Data Analysis › Data
+      <tspan x='92' dy='20'>Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='60' transform='translate(0,3984)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>61</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Elixir › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-60' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Elixir › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='61' transform='translate(0,4048)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>62</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Java › Natural Language Processing › Deep Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-61' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Java › Natural Language Processing › Deep Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='62' transform='translate(0,4112)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>63</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Matlab › Computer Vision › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-62' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Matlab › Computer Vision › Data Analysis › Data
+      <tspan x='92' dy='20'>Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='63' transform='translate(0,4180)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>64</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Perl › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-63' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Perl › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='64' transform='translate(0,4244)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>65</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › Federated Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-64' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › Federated Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='65' transform='translate(0,4308)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>66</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › Spiking Neural Networks</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-65' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › Spiking Neural Networks
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='66' transform='translate(0,4372)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>67</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>SAS › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-66' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      SAS › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='67' transform='translate(0,4436)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>68</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>SAS › General-Purpose Machine Learning › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-67' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      SAS › General-Purpose Machine Learning › Natural Language
+      <tspan x='92' dy='20'>Processing</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='68' transform='translate(0,4504)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>69</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>TensorFlow › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-68' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      TensorFlow › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>3</text>
+  </g>
+  <g data-row='69' transform='translate(0,4568)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>70</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>C › General-Purpose Machine Learning › Computer Vision</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-69' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      C › General-Purpose Machine Learning › Computer Vision
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='70' transform='translate(0,4632)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>71</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Clojure › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-70' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Clojure › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='71' transform='translate(0,4696)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>72</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Credits</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-71' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Credits
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='72' transform='translate(0,4760)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>73</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Crystal › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-72' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Crystal › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='73' transform='translate(0,4824)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>74</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Go › Natural Language Processing › Spatial analysis and geometry</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-73' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Go › Natural Language Processing › Spatial analysis and
+      <tspan x='92' dy='20'>geometry</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='74' transform='translate(0,4892)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>75</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Perl 6</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-74' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Perl 6
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='75' transform='translate(0,4956)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>76</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Python › Computer Vision › Python Survival Analysis</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-75' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Python › Computer Vision › Python Survival Analysis
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='76' transform='translate(0,5020)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>77</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Ruby › Natural Language Processing › Misc</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-76' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Ruby › Natural Language Processing › Misc
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='77' transform='translate(0,5084)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>78</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>SAS › General-Purpose Machine Learning › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-77' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      SAS › General-Purpose Machine Learning › Data Analysis ›
+      <tspan x='92' dy='20'>Data Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='78' transform='translate(0,5152)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>79</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Table of Contents › [Tools](#tools-1)</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-78' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Table of Contents › [Tools](#tools-1)
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>2</text>
+  </g>
+  <g data-row='79' transform='translate(0,5216)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>80</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>.NET › Computer Vision › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-79' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      .NET › Computer Vision › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='80' transform='translate(0,5280)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>81</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>APL › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-80' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      APL › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='81' transform='translate(0,5344)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>82</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>C++ › Computer Vision › Gesture Detection</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-81' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      C++ › Computer Vision › Gesture Detection
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='82' transform='translate(0,5408)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>83</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>C++ › Computer Vision › Sequence Analysis</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-82' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      C++ › Computer Vision › Sequence Analysis
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='83' transform='translate(0,5472)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>84</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>C++ › Computer Vision › Speech Recognition</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-83' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      C++ › Computer Vision › Speech Recognition
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='84' transform='translate(0,5536)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>85</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Clojure › Natural Language Processing › Extra</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-84' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Clojure › Natural Language Processing › Extra
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='85' transform='translate(0,5600)'>
+    <rect x='48' y='0' width='458' height='68' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>86</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Elixir › General-Purpose Machine Learning › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-85' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Elixir › General-Purpose Machine Learning › Natural
+      <tspan x='92' dy='20'>Language Processing</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='86' transform='translate(0,5668)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>87</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Erlang › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-86' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Erlang › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='87' transform='translate(0,5732)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>88</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Fortran › General-Purpose Machine Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-87' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Fortran › General-Purpose Machine Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='88' transform='translate(0,5796)'>
+    <rect x='48' y='0' width='458' height='68' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='34.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>89</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='44'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Fortran › General-Purpose Machine Learning › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-88' data-role='section' data-placement='column' x='92' y='24.0' fill='#1f2933' text-anchor='start'>
+      Fortran › General-Purpose Machine Learning › Data
+      <tspan x='92' dy='20'>Analysis › Data Visualization</tspan>
+    </text>
+    <rect x='506' y='17.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='22.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='34.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='89' transform='translate(0,5864)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>90</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Go › Natural Language Processing › Computer vision</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-89' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Go › Natural Language Processing › Computer vision
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='90' transform='translate(0,5928)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>91</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Go › Natural Language Processing › Reinforcement learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-90' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Go › Natural Language Processing › Reinforcement learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='91' transform='translate(0,5992)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>92</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Java › Natural Language Processing › Speech Recognition</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-91' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Java › Natural Language Processing › Speech Recognition
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='92' transform='translate(0,6056)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>93</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Kotlin › Deep Learning</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-92' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Kotlin › Deep Learning
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='93' transform='translate(0,6120)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>94</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Matlab › Computer Vision › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-93' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Matlab › Computer Vision › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='94' transform='translate(0,6184)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>95</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>OpenCV › OpenSource-Computer-Vision</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-94' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      OpenCV › OpenSource-Computer-Vision
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='95' transform='translate(0,6248)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>96</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>PHP › Natural Language Processing</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-95' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      PHP › Natural Language Processing
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='96' transform='translate(0,6312)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>97</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Perl › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-96' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Perl › Data Analysis › Data Visualization
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='97' transform='translate(0,6376)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>98</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Perl 6 › Data Analysis › Data Visualization</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-97' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Perl 6 › Data Analysis › Data Visualization
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='98' transform='translate(0,6440)'>
+    <rect x='48' y='0' width='458' height='64' fill='#f5f7ff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>99</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Scheme › Neural Networks</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-98' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Scheme › Neural Networks
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+  <g data-row='99' transform='translate(0,6504)'>
+    <rect x='48' y='0' width='458' height='64' fill='#ffffff' rx='12' ry='12' opacity='0.95' />
+    <text x='60' y='32.0' text-anchor='start' dominant-baseline='middle' font-size='12px' opacity='0.7'>100</text>
+    <foreignObject x='92.0' y='12.0' width='402' height='40'>
+      <div xmlns='http://www.w3.org/1999/xhtml' class='label-wrapper'><p class='label' data-role='section' data-placement='column'>Tools › Neural Networks</p></div>
+    </foreignObject>
+    <text class='label-fallback' id='section-99' data-role='section' data-placement='column' x='92' y='32.0' fill='#1f2933' text-anchor='start'>
+      Tools › Neural Networks
+    </text>
+    <rect x='506' y='15.0' width='376' height='34' fill='#eef2ff' rx='16' ry='16' opacity='0.6' />
+    <rect x='506' y='20.0' width='6' height='24' rx='12' ry='12' fill='url(#barGradient)' stroke='#467bff' stroke-width='0.75' opacity='0.95' />
+    <text class='count' data-role='count' x='992' y='32.0' text-anchor='end' dominant-baseline='middle'>1</text>
+  </g>
+</svg>
